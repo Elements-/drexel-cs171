@@ -1,0 +1,28 @@
+ages.csv
+y=1.000000*x-1989.0
+Prediction when Year = 1996.000000 is Age = 7.000000
+I think that the predictions for ages will be accurate because the persons age will scale directly with the input year.
+
+
+hurricanes.csv
+y=0.012118*x-18.019961828806785
+Prediction when Year = 2017.000000 is Hurricanes = 6.421468
+I do not think that the predictions for hurricanes will be accurate. The average error is +/-1.937 which is very high given the small numbers in the data. Also, the data appears to be pretty much random which implies that there is a weak or no correlation between year and number of hurricanes.
+
+
+temp.csv
+y=0.012873*x+32.166842496313045
+Prediction when Year = 2020.000000 is Temperature F = 58.170755
+I think the predictions for yearly temperatures will be accurate if the current trend continues because the average error is only +/-0.244 which is very small compared to the large numbers in the data set. These data clearly show a strong positive linear correlation.
+
+
+voters.csv
+y=3.114286*x-6003.933333333333
+Prediction when Year = 1990.000000 is Voters = 193.495238
+I think that the number of voters prediction will also be accurate because these data show a strong positive linear trend with an average error of only +/-2.263. It is likely that number of yearly voters scales linearly with year because of population growth.
+
+
+weights.csv
+y=6.137581*x-266.53439536567697
+Prediction when height = 76.000000 is weight = 199.921796
+I think that the predictions of weight based on height are accurate ON AVERAGE, because the weight of a random person is also very dependent on their body fat and composition, not just height.
